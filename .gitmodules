@@ -1,0 +1,12 @@
+[submodule "sources/mattpocock"]
+	path = sources/mattpocock
+	url = https://github.com/mattpocock/skills.git
+[submodule "sources/superpowers"]
+	path = sources/superpowers
+	url = https://github.com/obra/superpowers.git
+[submodule "sources/antonbabenko"]
+	path = sources/antonbabenko
+	url = https://github.com/antonbabenko/terraform-skill.git
+[submodule "sources/hashicorp"]
+	path = sources/hashicorp
+	url = https://github.com/hashicorp/agent-skills.git
