@@ -10,3 +10,12 @@
 [submodule "sources/hashicorp"]
 	path = sources/hashicorp
 	url = https://github.com/hashicorp/agent-skills.git
+[submodule "sources/opsguru"]
+	path = sources/opsguru
+	url = git@github.com:ops-guru/agentic-framework.git
+[submodule "sources/agent-toolkit"]
+	path = sources/agent-toolkit
+	url = https://github.com/softaworks/agent-toolkit.git
+[submodule "sources/grafana"]
+	path = sources/grafana
+	url = https://github.com/grafana/skills.git
