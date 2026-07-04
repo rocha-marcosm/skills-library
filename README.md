@@ -11,7 +11,7 @@ git submodule add <repo_url> sources/<repo_name>
 ## Update sources
 
 ```bash
-git submodule update --init --recursive --remote
+git submodule update --recursive --remote
 ```
 
 ## Skills to use
@@ -20,3 +20,17 @@ git submodule update --init --recursive --remote
 cd skills
 ln -s ../sources/<repo_name>/skills/<skill_name> <skill_name>
 ```
+
+
+## Cloning
+
+```bash
+git clone --recursive git@github.com:rocha-marcosm/skills-library.git
+```
+
+fetch submodules afterwords 
+
+```bash
+git submodule update --init --recursive
+```
+
