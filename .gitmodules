@@ -1,6 +1,7 @@
 [submodule "sources/mattpocock"]
 	path = sources/mattpocock
 	url = https://github.com/mattpocock/skills.git
+	branch = main
 [submodule "sources/superpowers"]
 	path = sources/superpowers
 	url = https://github.com/obra/superpowers.git
