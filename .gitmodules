@@ -8,6 +8,7 @@
 [submodule "sources/antonbabenko"]
 	path = sources/antonbabenko
 	url = https://github.com/antonbabenko/terraform-skill.git
+	branch = master
 [submodule "sources/hashicorp"]
 	path = sources/hashicorp
 	url = https://github.com/hashicorp/agent-skills.git
